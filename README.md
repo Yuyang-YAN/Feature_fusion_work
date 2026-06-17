@@ -18,4 +18,5 @@ Jupyter notebooks with the main experiments.
 
 If you use this code, please cite:
 
-Yan, Y., van Bemmel, L., Franssen, F. M., Simons, S. O., & Urovi, V. (2025). Developing a multi-feature fusion model for exacerbation classification in asthma and COPD. Computer Methods and Programs in Biomedicine, 268, 108796.
+Yan, Y., Simons, S. O., & Urovi, V. (2025). Developing a LeFF Transformer Model for Exacerbated Speech Detection in COPD and Asthma. In Proc. Interspeech 2025 (pp. 993-997).
+
